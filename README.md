@@ -1,5 +1,6 @@
 # TFBOYS的自我介绍
- 大家好，我们是**TFBOYS**，由王俊凯、王源和易烊千玺三位成员组成，来自中国的*歌手*、*演员*和*舞者*。自2013年出道以来，我们一直努力在音乐、影视等领域不断进步，希望能为大家带来更多优秀的作品。
+
+大家好，我们是**TFBOYS**，由王俊凯、王源和易烊千玺三位成员组成，来自中国的*歌手*、*演员*和*舞者*。自2013年出道以来，我们一直努力在音乐、影视等领域不断进步，希望能为大家带来更多优秀的作品。
 <img src="https://cn.bing.com/images/search?view=detailV2&ccid=BGX8dwA5&id=167691E8D90F7C490F7F67C62D54728AA34B8FE9&thid=OIP.BGX8dwA5zEB5shQAlErcywHaHa&mediaurl=https%3a%2f%2fwx1.sinaimg.cn%2flarge%2f005BFlPJly1g4tfarqw2kj30dw0dwmym.jpg&exph=500&expw=500&q=tfboys%e8%8e%b7%e5%a5%96%e8%ae%b0%e5%bd%95&simid=608047510529659385&FORM=IRPRST&ck=DB7FABDBF04C92E5E21BC0901BC80ACD&selectedIndex=248&itb=0" width="200" alt="TFBOYS形象">
 ---
 
@@ -133,12 +134,12 @@
 ##我最喜欢的一段代码
 dev_skills_env.py中你的代码
 
-![本地图片](屏幕截图 2025-03-22 101212.png) 
+![本地图片](2025-03-22 101212.png) 
 其中执行
 `mport numpy`
 `import numpy as np`
 `print(np.array([1, 2, 3]) ** 2)`可输出结果
-![本地图片](屏幕截图 2025-03-22 101257.png)
+![本地图片](2025-03-22 101257.png)
 
 我最喜欢的环境管理工具是conda
 “01 环境搭建的截图一”
